@@ -28,5 +28,5 @@ I’m a firm believer in "learning by doing," so I’m sharing these projects ev
 
     **Link prototype:** https://www.figma.com/proto/baUHePiNnyQsruouttGNhQ/SmartCart?page-id=0%3A1&node-id=14-1006&p=f&viewport=377%2C144%2C0.31&t=jfPo7eNLfJUJlPvI-1&scaling=scale-down&content-scaling=responsive&starting-point-node-id=14%3A1006
    
-   <img width="360" height="740" alt="image" src="https://github.com/user-attachments/assets/280e7db8-befc-41b6-84a7-fd6fe1da75d1" align="center" />
+   <img width="360" height="740" alt="image" src="https://github.com/user-attachments/assets/280e7db8-befc-41b6-84a7-fd6fe1da75d1" />
 
