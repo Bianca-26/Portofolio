@@ -10,7 +10,10 @@ I’m a firm believer in "learning by doing," so I’m sharing these projects ev
 
    **Link prototype:** https://www.figma.com/proto/5mmVd30FFU2F2EBz8hwu5m/Untitled?page-id=0%3A1&node-id=1-15&p=f&viewport=262%2C478%2C0.44&t=FcfLKjgzbaJ8BxT4-1&scaling=scale-down&content-scaling=fixed&starting-point-node-id=1%3A15
 
-   <img width="2556" height="1452" alt="image" src="https://github.com/user-attachments/assets/3aaa2585-0317-4536-be19-0983dd9da613" />
+   <img width="2354" height="1422" alt="image" src="https://github.com/user-attachments/assets/4d2b3859-b093-41cb-90e3-4bfa4e1308a7" />
+   <img width="2436" height="1405" alt="image" src="https://github.com/user-attachments/assets/7f60bff2-50c1-4e2a-945c-24f4e43a9f55" />
+   <img width="2326" height="1429" alt="image" src="https://github.com/user-attachments/assets/49d3da99-9582-4717-a4df-4a5170b9cbd4" />
+   <img width="2358" height="1442" alt="image" src="https://github.com/user-attachments/assets/73c3aca7-2f08-4b16-9a73-3a8d8349e837" />
 
 
 2. **Trips to South Korea**
