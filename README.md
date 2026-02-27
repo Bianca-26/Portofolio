@@ -19,7 +19,7 @@ I’m a firm believer in "learning by doing," so I’m sharing these projects ev
 
    **Link:** https://www.figma.com/site/gobAXDqh9q9xHWCF1cicnD/South-Korea?node-id=0-1&t=neclZh7Oo66TtWfY-1
    
-   <img width="1192" height="858" alt="image" src="https://github.com/user-attachments/assets/cb8c328c-db08-4af6-abb2-38cf3798e470" />
+   <img width="1192" height="858" alt="image" src="https://github.com/user-attachments/assets/cb8c328c-db08-4af6-abb2-38cf3798e470" style="center" />
 
 
 3. **Cheapest price**
