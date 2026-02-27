@@ -4,7 +4,16 @@ Figma Designs
 While I’m currently deep-diving into my CS studies, UI/UX design is where I explore my creativity and attention to detail.
 I’m a firm believer in "learning by doing," so I’m sharing these projects even as they evolve.
 
-1. **Trips to South Korea**
+1. **Unpublished Portofolio Website**
+
+   A minimalist portfolio designed to act as a living timeline of my creative and technical journey. Since the site is currently in the prototyping phase, I've implemented a "Secret Dashboard" feature. For the purpose of this Figma demo, you can access the admin controls by clicking the 'Home' button. This allows you to see the intended user flow for content management and site updates.
+
+   **Link prototype:** https://www.figma.com/proto/5mmVd30FFU2F2EBz8hwu5m/Untitled?page-id=0%3A1&node-id=1-15&p=f&viewport=262%2C478%2C0.44&t=FcfLKjgzbaJ8BxT4-1&scaling=scale-down&content-scaling=fixed&starting-point-node-id=1%3A15
+
+   <img width="2556" height="1452" alt="image" src="https://github.com/user-attachments/assets/3aaa2585-0317-4536-be19-0983dd9da613" />
+
+
+2. **Trips to South Korea**
    
    This project is a dedicated travel ecosystem built to streamline the South Korean tourism experience. Unlike broad travel aggregators, this platform focuses on high-intent users, providing an end-to-end view of travel logistics (origin, transport, and cost) alongside immersive cultural guides.
 
