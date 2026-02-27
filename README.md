@@ -19,7 +19,7 @@ I’m a firm believer in "learning by doing," so I’m sharing these projects ev
 
    **Link:** https://www.figma.com/site/gobAXDqh9q9xHWCF1cicnD/South-Korea?node-id=0-1&t=neclZh7Oo66TtWfY-1
    
-   <img width="1192" height="858" alt="image" src="https://github.com/user-attachments/assets/cb8c328c-db08-4af6-abb2-38cf3798e470" style="center" />
+   <img width="1192" height="858" alt="image" src="https://github.com/user-attachments/assets/cb8c328c-db08-4af6-abb2-38cf3798e470" />
 
 
 3. **Cheapest price**
@@ -28,5 +28,5 @@ I’m a firm believer in "learning by doing," so I’m sharing these projects ev
 
     **Link prototype:** https://www.figma.com/proto/baUHePiNnyQsruouttGNhQ/SmartCart?page-id=0%3A1&node-id=14-1006&p=f&viewport=377%2C144%2C0.31&t=jfPo7eNLfJUJlPvI-1&scaling=scale-down&content-scaling=responsive&starting-point-node-id=14%3A1006
    
-   <img width="360" height="740" alt="image" src="https://github.com/user-attachments/assets/280e7db8-befc-41b6-84a7-fd6fe1da75d1" />
+   <img width="360" height="740" alt="image" src="https://github.com/user-attachments/assets/280e7db8-befc-41b6-84a7-fd6fe1da75d1" align="center" />
 
